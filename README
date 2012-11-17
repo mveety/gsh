@@ -1,0 +1,16 @@
+Go Shell (gsh)
+This is a simple shell written in go.
+
+Features:
+	Runs stuff
+	Can run stuff in goroutines
+	Can run stuff in scripts
+	Developed on Plan 9
+	Works on FreeBSD
+
+To-Do list:
+	Functions
+	pipes
+	i/o redirection
+
+
